@@ -1,0 +1,22 @@
+.active {
+  background-color: white;
+  padding: 1rem;
+  color: var(--bg);
+}
+
+.linkcontainer {
+  min-width: 100px;
+  padding: 10px;
+  border-radius: 20px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+}
+.a {
+  text-decoration: none;
+  color: var(--text);
+}
+
+.container {
+  display: flex;
+}
